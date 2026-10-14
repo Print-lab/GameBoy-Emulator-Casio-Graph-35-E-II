@@ -350,10 +350,10 @@ Not implemented, not tested:
   community.
 - Blargg's test ROMs (validation only, not included), fetched through the
   `retrio/gb-test-roms` repository.
+- This was coded by claude (I showed him what was displayed on my screen and shared my comments, and he debugged, fixed, and improved the emulator)
 
 ## License
 
-To be decided: add a `LICENSE` file before publishing (for example MIT or
-GPL-3.0, depending on what you want).
+The License is AGPL-3.0
 
 
