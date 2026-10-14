@@ -347,8 +347,8 @@ Non implémentées, non testées :
   par Lephenixnoir et la communauté [Planète Casio](https://www.planet-casio.com).
 - ROMs de test de Blargg (validation uniquement, non incluses), récupérées via
   le dépôt `retrio/gb-test-roms`.
+- ce projet a été codé par claude (je lui indiquais ce qui m'affichait, mes remarques et il débuggait, corrigeait et amélioré l'émulateur)
 
 ## Licence
 
-À définir : ajoute un fichier `LICENSE` avant de publier (par exemple MIT ou
-GPL-3.0 selon ce que tu souhaites).
+La license est AGPL-3.0
